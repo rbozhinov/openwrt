@@ -27,7 +27,6 @@
 	partition@20000 {
 		label = "u-boot";
 		reg = <0x020000 0x020000>;
-		read-only;
 	};
 
 	partition@40000 {
